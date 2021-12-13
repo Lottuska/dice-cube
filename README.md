@@ -1,5 +1,6 @@
 # dice-cube
 
+![Screenshot](dice-cube.png)
 ## Project setup
 ```
 npm install
