@@ -1,6 +1,8 @@
 # dice-cube
 
-![Screenshot](dice-cube.png)
+Need a digital 6-sided dice? [Try this!](https://lottuska.github.io/dice-cube/)
+
+![Screenshot](https://raw.githubusercontent.com/Lottuska/dice-cube/main/public/dice-cube.png)
 ## Project setup
 ```
 npm install
